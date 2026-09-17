@@ -74,16 +74,6 @@ A MERN-stack online learning portal designed to provide students with courses, n
 * 💬 Student chat room
 * 📊 Enrollment management
 
----
-
-## 📊 GitHub Stats
-
-![Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajangel01\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajangel01\&layout=compact\&theme=tokyonight)
-
----
-
 
 
 ---
