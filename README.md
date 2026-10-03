@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Raj 
+#  Hi, I'm Raj 
 
-### 💻 MCA Student at BHU | Full-Stack Developer | AI/ML Enthusiast
+###  MCA Student at BHU | Full-Stack Developer | AI/ML | Blockchain Developer
 
 Welcome to my GitHub profile! I'm passionate about building **real-world applications** using modern web technologies, Artificial Intelligence, Machine Learning and Blockchain.
 
@@ -8,13 +8,13 @@ I enjoy turning ideas into practical projects and continuously learning new tech
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 * 🎓 MCA Student at BHU main Campus
 * 💻 Full-Stack Developer
 * ⚛️ Working with **React.js & Node.js**
 * 🌐 Building applications using the **MERN Stack**
-* 🤖 Interested in **Artificial Intelligence & Machine Learning**
+* 🤖 Interested in **AI/ML & Blockchain Technology**
 * ✨ Exploring **Generative AI**
 * ⛓️ Exploring **Blockchain & Hyperledger Fabric**
 * 📚 Always learning and experimenting with new technologies
@@ -31,6 +31,7 @@ I enjoy turning ideas into practical projects and continuously learning new tech
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🗄️ Database
 
@@ -41,11 +42,14 @@ I enjoy turning ideas into practical projects and continuously learning new tech
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-Large%20Language%20Model-FF6F00?style=for-the-badge)
 
 ### ⛓️ Blockchain
 
 ![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger%20Fabric-2F3134?style=for-the-badge\&logo=hyperledger\&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Smart Contract](https://img.shields.io/badge/Smart%20Contract-FF9800?style=for-the-badge)
 
 ---
 
